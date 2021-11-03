@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIGateway", "APIGateway\AP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserService", "UserService\UserService.csproj", "{0299019E-C76F-404E-A78C-D1D467CB5B06}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductService", "ProductService\ProductService.csproj", "{E1770C11-01E2-4EFE-AD07-742D1ADB662D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0299019E-C76F-404E-A78C-D1D467CB5B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0299019E-C76F-404E-A78C-D1D467CB5B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0299019E-C76F-404E-A78C-D1D467CB5B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1770C11-01E2-4EFE-AD07-742D1ADB662D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1770C11-01E2-4EFE-AD07-742D1ADB662D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1770C11-01E2-4EFE-AD07-742D1ADB662D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1770C11-01E2-4EFE-AD07-742D1ADB662D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
